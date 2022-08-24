@@ -1,6 +1,7 @@
 ### Salve, salve!
 
-- 🌱 I’m currently learning: The frontend base: HTML CSS and JS.
+- 🔥 I have a good base of HTML and CSS
+- 🌱 I’m currently learning: Motion design (with JS/CSS) and SASS.
 - 📫 How to reach me: ycombi349@gmail.com
 - ⚡ Fun fact: I'm doing a master's degree in Historym, more specifically, Latin American history!
 
