@@ -1,9 +1,9 @@
 ### Salve, salve!
 
-- 🔥 I have a good base of HTML and CSS
-- 🌱 I’m currently learning: Motion design (with JS/CSS) and SASS.
-- 📫 How to reach me: ycombi349@gmail.com
-- ⚡ Fun fact: I'm doing a master's degree in Historym, more specifically, Latin American history!
+- 🔥 I have a good base of Technical SEO and Front End Programming.
+- 🌱 I’m currently learning: Production manager in Descomplica and Technical SEO.
+- 📫 How to reach me: ygor.combi@advbox.com.br
+- ⚡ Fun fact: Eu gasto dinheiro com moedinhas de mentira ✨ (vale nem traduzir isso aqui...)
 
 <div align="center">
   <a href="https://github.com/combizera">
