@@ -5,24 +5,11 @@
 - 📫 How to reach me: ygor.combi@advbox.com.br
 - ⚡ Fun fact: Eu gasto dinheiro com moedinhas de mentira ✨ (vale nem traduzir isso aqui...)
 
-<div align="center">
-  <a href="https://github.com/combizera">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=combizera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combizera&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="combizera__HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="combizera__CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="combizera__Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ### Languages and Tools
+ ### Languages and Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combizera&hide=html,css&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/combizera)
-
-
   
+   
   ##
  
 <div> 
