@@ -2,7 +2,7 @@
 
 - 🔥 I have a good base of Technical SEO and Front End Programming.
 - 🌱 I’m currently learning: Production manager in Descomplica and Technical SEO.
-- 📫 How to reach me: ygor.combi@advbox.com.br
+- 📫 How to reach me: contato@combizera.com
 - ⚡ Fun fact: Eu gasto dinheiro com moedinhas de mentira ✨ (vale nem traduzir isso aqui...)
 
 <h2 align="left">📊 Stats</h2>
