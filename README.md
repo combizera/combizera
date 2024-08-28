@@ -7,6 +7,8 @@
 
 <h2 align="left">📊 Stats</h2>
 
+[![wakatime](https://wakatime.com/badge/user/63fa05f8-a0f5-4d40-aaad-e8b0eb268cb0.svg)](https://wakatime.com/@63fa05f8-a0f5-4d40-aaad-e8b0eb268cb0)
+
 ###
 
 <div align="center">
