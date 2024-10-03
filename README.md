@@ -1,9 +1,13 @@
-### Salve, salve!
+## {{ Hi! 😉 }}
 
-- 🔥 I have a good base of Technical SEO and Front End Programming.
-- 🌱 I’m currently learning: Production manager in Descomplica and Technical SEO.
-- 📫 How to reach me: contato@combizera.com
-- ⚡ Fun fact: Eu gasto dinheiro com moedinhas de mentira ✨ (vale nem traduzir isso aqui...)
+### About Me 
+- 🔥 I'm FullStack Developer focused on **PHP**, especially in **Laravel**.
+- 🌱 Currently, I'm learning **Vue.js** and **Livewire**.
+- 🚀 I have a solid foundation in **Technical SEO**
+- 🎯 I also have an interest in **Product Management**, combining my development skills with a product-oriented mindset.
+
+### Get in Touch
+- 📫 How to reach me: [contato@combizera.com](mailto:contato@combizera.com)
 
 <h2 align="left">📊 Stats</h2>
 
@@ -11,7 +15,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=combizera&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=combizera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=combizera&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
