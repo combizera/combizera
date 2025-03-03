@@ -13,7 +13,8 @@
 
 ###
 
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combizera&hide=html,css&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/combizera)
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=combizera&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=combizera&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -47,4 +48,3 @@
   <a href = "mailto:contato@combizera.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/combizera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
